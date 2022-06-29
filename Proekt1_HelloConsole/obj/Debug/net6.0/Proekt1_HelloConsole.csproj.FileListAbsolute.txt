@@ -1,0 +1,15 @@
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\bin\Debug\net6.0\Proekt1_HelloConsole.exe
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\bin\Debug\net6.0\Proekt1_HelloConsole.deps.json
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\bin\Debug\net6.0\Proekt1_HelloConsole.runtimeconfig.json
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\bin\Debug\net6.0\Proekt1_HelloConsole.dll
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\bin\Debug\net6.0\Proekt1_HelloConsole.pdb
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.AssemblyInfo.cs
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.dll
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\refint\Proekt1_HelloConsole.dll
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.pdb
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\Proekt1_HelloConsole.genruntimeconfig.cache
+C:\Users\Лидия\Desktop\Обучение\Язык_C\Lekcia1\Proekt1_HelloConsole\obj\Debug\net6.0\ref\Proekt1_HelloConsole.dll
